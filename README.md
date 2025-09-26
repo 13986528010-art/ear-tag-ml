@@ -21,7 +21,7 @@ The iSPET platform is an integrated, field-deployable device that converges sust
 
 ## **How to Use**
 1. Clone the Repository: https://github.com/Xiaoyu-408/ear-tag-ml
-2. Prerequisites: PyCharm
+2. Prerequisites: Python 3.8; shap 0.44.1
 
 ---
 
