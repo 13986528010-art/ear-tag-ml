@@ -13,6 +13,12 @@ Scientific and technological innovations:
 - For the first time, an intelligent ear tag specifically focusing on livestock welfare is invented. The iSPET tag is lightweight (<20 g), robust, and seamlessly integrates with conventional ear-tagging methods. It empowers livestock caretakers with continuous, actionable insights to prevent metabolic disorders, optimize feeding strategies, and uphold welfare standards before clinical symptoms arise.
 - For the first time, a multiplexed biosensor is specifically designed for livestock, which continuously monitor interstitial fluid pH, K⁺, and Ca²⁺ with laboratory-grade precision (blood test correlations: 0.94, 0.93, 0.89). Coupled with an XGBoost-based metabolic assessment model achieving 97.87-99.73% accuracy in classifying normal/abnormal states (acidosis, alkalosis, hypocalcemia). The iSPET establishing a new paradigm in continuous biochemical monitoring without repeated invasive procedures.
 - A self-powered module, specially designed for livestock habits and breeding environments. A synergistic TENG-solar system that leverages livestock motion kinetics and ambient light to achieve uninterrupted power indoors or outdoors. The synergistic approach ensures uninterrupted, functionality both indoors and outdoors in diverse farm environments, eliminating the fundamental limitation of battery dependence in long-term livestock wearables.
+## **System Overview** 
+The following diagram illustrates the **machine learning workflow** used in iSPET: 
+
+![Machine Learning Workflow](Model/Machine_learning_process.jpg) 
+
+*Fig. 1. Workflow of the iSPET platform: biosensing signals → preprocessing → ML classifier (XGBoost) → metabolic state classification.*
  
 The iSPET platform is an integrated, field-deployable device that converges sustainable energy harvesting, minimally invasive biosensing, and diagnostic AI to enable precision livestock farming and elevate global animal welfare. 
 
