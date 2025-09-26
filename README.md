@@ -14,9 +14,6 @@ Scientific and technological innovations:
 - For the first time, a multiplexed biosensor is specifically designed for livestock, which continuously monitor interstitial fluid pH, K⁺, and Ca²⁺ with laboratory-grade precision (blood test correlations: 0.94, 0.93, 0.89). Coupled with an XGBoost-based metabolic assessment model achieving 97.87-99.73% accuracy in classifying normal/abnormal states (acidosis, alkalosis, hypocalcemia). The iSPET establishing a new paradigm in continuous biochemical monitoring without repeated invasive procedures.
 - A self-powered module, specially designed for livestock habits and breeding environments. A synergistic TENG-solar system that leverages livestock motion kinetics and ambient light to achieve uninterrupted power indoors or outdoors. The synergistic approach ensures uninterrupted, functionality both indoors and outdoors in diverse farm environments, eliminating the fundamental limitation of battery dependence in long-term livestock wearables.
 
-markdown
-![Machine Learning Workflow]([https://github.com/username/repo/blob/main/model/ml_workflow.jpg?raw=true](https://github.com/13986528010-art/ear-tag-ml/blob/main/Model/Machine%20learning%20process.jpg?raw=true))
-
 The iSPET platform is an integrated, field-deployable device that converges sustainable energy harvesting, minimally invasive biosensing, and diagnostic AI to enable precision livestock farming and elevate global animal welfare. 
 
 
