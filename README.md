@@ -20,8 +20,6 @@ The iSPET platform is an integrated, field-deployable device that converges sust
 ---
 
 ## **How to Use**
-How to Use
-1. Clone the Repository: git clone https://github.com/wispcarey/AutoKG.git
-2. Prerequisites: Python 3.9 or 3.10
-3. Installation: Install necessary packages:pip install -r requirements.txt
-4. Your OpenAI API key: Input your openai api key in config
+1. Clone the Repository: https://github.com/13986528010-art/ear-tag-ml
+2. Prerequisites: PyCharm
+
